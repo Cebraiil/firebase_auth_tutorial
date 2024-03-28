@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319703143496",
+    "project_id": "spotwise-9d79b",
+    "storage_bucket": "spotwise-9d79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319703143496:android:47f8258b4624d1d7e2b47d",
+        "android_client_info": {
+          "package_name": "com.anisaskri00.firebase_auth_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj7QWZ_ucxDp9vw-8AD3iZXFt-eZxr4j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
